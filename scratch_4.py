@@ -1,3 +1,4 @@
+#divisible by 2 and 3
 n=int(input("enter the number:"))
 if n%2==0:
     if n%3==0:
